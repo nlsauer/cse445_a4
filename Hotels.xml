@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="3.9">
+    <Name>DoubleTree Suites by Hilton Phoenix</Name>
+    <Phone>602-225-0500</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+      <Number>320</Number>
+      <Street>N 44th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>Hilton Phoenix Airport</Name>
+    <Phone>480-894-1600</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+      <Number>2435</Number>
+      <Street>S 47th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85034</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.1">
+    <Name>Hilton Garden Inn Phoenix Airport North</Name>
+    <Phone>602-306-2323</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+      <Number>3838</Number>
+      <Street>E Van Buren St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.2">
+    <Name>SpringHill Suites Phoenix Tempe/Airport</Name>
+    <Phone>480-968-8222</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+      <Number>1601</Number>
+      <Street>W Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.9">
+    <Name>Wyndham Phoenix Airport/Tempe</Name>
+    <Phone>480-967-6600</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+      <Number>1600</Number>
+      <Street>S 52nd St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
+    <Phone>602-225-9000</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+      <Number>2000</Number>
+      <Street>W Westcourt Way</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.8">
+    <Name>Country Inn and Suites by Radisson, Phoenix Airport, AZ</Name>
+    <Phone>480-306-4343</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+      <Number>4702</Number>
+      <Street>E University Dr</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85034</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>Radisson Hotel Phoenix Airport</Name>
+    <Phone>602-661-3160</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+      <Number>427</Number>
+      <Street>N 44th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>Holiday Inn and Suites Phoenix Airport by IHG</Name>
+    <Phone>480-543-1700</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+      <Number>3220</Number>
+      <Street>S 48th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85040</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.4">
+    <Name>SureStay by Best Western Phoenix Airport</Name>
+    <Phone>602-273-1601</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+      <Number>3037</Number>
+      <Street>E Van Buren St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>
