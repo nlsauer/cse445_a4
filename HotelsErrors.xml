@@ -44,9 +44,9 @@
     <Phone>602-306-2323</Phone>
     <Address NearestAirport="Phoenix Sky Harbor International Airport">
       <Number>3838</Number>
-      <Street>E Van Buren St
-      <City>Phoenix</City>
+      <Street>E Van Buren St</Street>
       <State>AZ</State>
+      <City>Phoenix</City>
       <Zip>85008</Zip>
     </Address>
   </Hotel>
